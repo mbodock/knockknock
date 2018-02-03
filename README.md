@@ -9,5 +9,5 @@ and allow edit those hosts.
 
 ## Running test
 
-Create your virtualenv and install all deps from: `src/knockknock/settings/test.py`
+Create your virtualenv and install all deps from: `src/knockknock/requirements-dev.txt`
 then you'll be able to run `tox` in root folder.
